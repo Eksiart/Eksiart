@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eksiart&show_icons=true" align=right />
 </picture>
 
-I'm a **frontend developer** with a passion for creating efficient and scalable web applications. With over two years of experience in **React**, I've developed a wide range of skills in frontend development.
+I'm a **frontend developer** who cares about user experience and clean code. For the past two years, I've been working with React and deepening my knowledge in building scalable, maintainable web applications. I'm always learning and excited to take on new challenges.
 
 ---
 
